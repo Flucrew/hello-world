@@ -1,2 +1,5 @@
 # hello-world
-An introduction to the use of github
+
+Hello all,
+
+I love Cannabis!
